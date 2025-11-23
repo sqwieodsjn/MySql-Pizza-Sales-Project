@@ -108,9 +108,3 @@ If you found this project helpful or have suggestions, feel free to connect!
 🔗 **LinkedIn:https://www.linkedin.com/in/shibin-t/
 
 ---
-
-If you'd like:
-✅ A **short version**
-✅ A **GitHub repository description**
-✅ A **badge-style README with icons**
-Just tell me!
